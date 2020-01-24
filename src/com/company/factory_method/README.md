@@ -1,0 +1,1 @@
+Simplest application for showing factory method . Just pass the parameter (Pie or Carrot) as command line argument
